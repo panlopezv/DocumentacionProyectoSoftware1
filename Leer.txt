@@ -1,0 +1,19 @@
+Gestion del proyecto SCRUM: https://www.flying-donut.com
+	Usuario: 	panlopezv
+	Contraseña: 	contrasenya
+	Proyecto:	Proyecto-Software1 https://www.flying-donut.com/static/#!/project/project-id=560cc71de4b08f1f3742708c
+Direccion web:
+	http://prograpedia.annyscafe.com/
+
+Usuarios:
+	Administrador:
+		Usuario: 	admin
+		Contraseña: 	contrasenya
+	Escritor:
+		Usuario: 	escritor1
+		Contraseña: 	contrasenya
+
+		Usuario: 	escritor2
+		Contraseña: 	contrasenya
+	Lector:
+		Por defecto, cualquier usuario que se registre.
